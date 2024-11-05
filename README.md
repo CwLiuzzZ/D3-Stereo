@@ -18,7 +18,7 @@ The required VGG weights "vgg16-397923af.pth" can be found at [Graft](https://gi
 
 ## Dataset Preparation
 
-The created UDTIRI-Stereo dataset can be accessed form [google drive](https://pan.baidu.com/s/1mkmKGwgrvo0qT7W1xU3eXA?pwd=jxcn)
+The created UDTIRI-Stereo dataset can be accessed form [baidu cloud](https://pan.baidu.com/s/1mkmKGwgrvo0qT7W1xU3eXA?pwd=jxcn)
 
 The used Stereo-Road dataset can be accessed from [google drive](https://drive.google.com/file/d/1s7wKvPNzPVTNQXIZRP5jZDOsTvUkqOls/view?usp=sharing)
 
