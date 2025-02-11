@@ -35,6 +35,6 @@ Our folder structure is as follows:
     │   └── WetRoad1
 ```
 
-## Training & Evaluation
+## Inference
 
-For using and evaluating our D3Stereo, please run the files  `toolkit/main.py` and ``toolkit/tool.py``, respectively. 
+For using our D3Stereo, please run the files  `toolkit/main.py`. 
